@@ -1,6 +1,6 @@
 {
   "name": "it-is-here",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "IT info",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/shilpiverma/ItHere/issues"
   },
-  "homepage": "https://github.com/shilpiverma/ItHere#readme"
+  "homepage": "https://github.com/shilpiverma/ItHere#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
 }
